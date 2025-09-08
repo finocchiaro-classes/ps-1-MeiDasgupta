@@ -35,4 +35,4 @@ elif score == 4:
     risk = 95.3
 
 
-print("The recidivism risk score is ", risk)
+print("The recidivism risk score is ", score)
